@@ -1,0 +1,13 @@
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter1\Recipe10\bin\Debug\Recipe10.exe.config
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter1\Recipe10\bin\Debug\Recipe10.exe
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter1\Recipe10\bin\Debug\Recipe10.pdb
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter1\Recipe10\obj\Debug\Recipe10.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter1\Recipe10\obj\Debug\Recipe10.exe
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter1\Recipe10\obj\Debug\Recipe10.pdb
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\bin\Debug\Recipe10.exe.config
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\bin\Debug\Recipe10.exe
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\bin\Debug\Recipe10.pdb
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\obj\Debug\Recipe10.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\obj\Debug\Recipe10.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\obj\Debug\Recipe10.exe
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter1\Recipe10\obj\Debug\Recipe10.pdb

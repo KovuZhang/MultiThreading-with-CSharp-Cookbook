@@ -1,0 +1,14 @@
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\bin\Debug\Recipe5.exe.config
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\bin\Debug\Recipe5.exe
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\bin\Debug\Recipe5.pdb
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\obj\Debug\Recipe5.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\obj\Debug\Recipe5.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\obj\Debug\Recipe5.exe
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter3\Recipe5\obj\Debug\Recipe5.pdb
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\bin\Debug\Recipe5.exe.config
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\bin\Debug\Recipe5.exe
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\bin\Debug\Recipe5.pdb
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\obj\Debug\Recipe5.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\obj\Debug\Recipe5.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\obj\Debug\Recipe5.exe
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter3\Recipe5\obj\Debug\Recipe5.pdb

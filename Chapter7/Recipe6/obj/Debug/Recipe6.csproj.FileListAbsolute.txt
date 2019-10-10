@@ -1,0 +1,14 @@
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\bin\Debug\Recipe6.exe.config
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\bin\Debug\Recipe6.exe
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\bin\Debug\Recipe6.pdb
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\obj\Debug\Recipe6.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\obj\Debug\Recipe6.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\obj\Debug\Recipe6.exe
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter7\Recipe6\obj\Debug\Recipe6.pdb
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\bin\Debug\Recipe6.exe.config
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\bin\Debug\Recipe6.exe
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\bin\Debug\Recipe6.pdb
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\obj\Debug\Recipe6.csprojAssemblyReference.cache
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\obj\Debug\Recipe6.csproj.CoreCompileInputs.cache
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\obj\Debug\Recipe6.exe
+D:\StudySpace\VisualCSharp\MultiThreading-with-CSharp-Cookbook\Chapter7\Recipe6\obj\Debug\Recipe6.pdb

@@ -1,0 +1,1 @@
+D:\StudySpace\VisualCSharp\MultithreadingWithCSharpCookbook\BookSamples\Chapter11\Recipe1\Recipe1.csproj;x86
